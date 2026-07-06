@@ -267,7 +267,7 @@ export const botConfig = {
     maximumDuration: 2592000000,
 
     // Role IDs allowed to host giveaways.
-    allowedRoles: [],
+    allowedRoles: [1515659861059436575],
 
     // Role IDs that bypass giveaway restrictions.
     bypassRoles: [],
